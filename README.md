@@ -1,6 +1,6 @@
-# {{ name }}
+# puzzles game
 
-> {{ description }}
+> a vue demo for (3x3,4x4,5x5) puzzles game
 
 ## Build Setup
 
